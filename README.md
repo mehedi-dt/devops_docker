@@ -1,10 +1,8 @@
-# 📄 README.md (Root-Level)
-
 ## Multi-App Infrastructure Repository
 
 This repository is a collection of containerized applications and their configurations. Each application is self-contained in its own directory and follows a modular and scalable structure.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── README.md                 # Root README (this file)
@@ -17,7 +15,7 @@ This repository is a collection of containerized applications and their configur
         └── php-custom.ini
 ```
 
-## 📦 Applications
+## Applications
 
 Each application resides in its own directory and contains:
 - Dockerfile(s)
