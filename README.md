@@ -1,6 +1,6 @@
 ## Multi-App Infrastructure Repository
 
-This repository is a collection of containerized applications and their configurations. Each application is self-contained in its own directory and follows a modular and scalable structure.
+This repository is a collection of containerized applications and their configurations. Each application is self-contained in its own directory.
 
 ## Applications
 
